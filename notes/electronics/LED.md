@@ -81,3 +81,6 @@ LEDs need a minimum voltage (called the **forward voltage**, $V_f$) to light up.
 
 2. **Nonlinear I-V Curve**
    - The relationship between current and voltage for an LED looks like a steep curve: small voltage, almost no current; but once $V_f$ is reached, current rises rapidly.
+  
+## Resources
+- https://en.wikipedia.org/wiki/Shockley_diode_equation
