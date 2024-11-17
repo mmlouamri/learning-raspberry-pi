@@ -20,6 +20,41 @@ This file contains a list of project ideas I plan to work on. Each idea includes
    - **Materials/Components**:  
      - 1 Passive or Active Buzzer  
 
+## LED Brightness Control with Button Press Duration
+- **Description**: Design a system where the brightness of an LED increases the longer a button is pressed. A secondary button is used to reduce brightness.  
+- **Materials and Components**:  
+  - 1 LED  
+  - 1 220-ohm resistor  
+  - 2 Push Button  
+
+## Morse Code SOS Signal
+- **Description**: Implement a Morse code transmitter using an LED and a push button. Pressing the button activates an SOS signal, which is displayed via the LED in Morse code (short and long blinks).  
+- **Materials and Components**:  
+  - 1 LED  
+  - 1 220-ohm resistor  
+  - 1 Push Button  
+
+## Cycle Through LED Colors with RGBLED 
+- **Description**: Create a color-changing RGB LED controller where a push button cycles through different predefined colors.
+- **Materials and Components**:  
+  - 1 RGB LED  
+  - 3 220-ohm resistors  
+  - 1 Push Button  
+
+## LED Pulsing Speed Control
+- **Description**: Create a system where the speed of a LED's pulsing pattern is controlled by a push button. Pressing the button increases or decreases the pulsing speed, making it slower or faster.  
+- **Materials and Components**:  
+  - 1 LED  
+  - 1 220-ohm resistor  
+  - 1 Push Button  
+
+## Button Double-Click to Blink LED  
+- **Description**: Develop a system where a double-click on a push button triggers an LED to blink rapidly for a few seconds.
+- **Materials and Components**:  
+  - 1 LED  
+  - 1 220-ohm resistor  
+  - 1 Push Button 
+
 ## Using an LDR with a Capacitor
    - **Description**: Measure light intensity using a light-dependent resistor (LDR) and a capacitor. This project introduces basic analog sensing concepts.  
    - **Materials/Components**:
