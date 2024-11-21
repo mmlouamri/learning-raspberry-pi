@@ -15,10 +15,6 @@ This file contains a list of project ideas I plan to work on. Each idea includes
      - 1 RGB LED  
      - 3 220-ohm resistors  
 
-## Buzzer Alarm  
-   - **Description**: Control a buzzer that produces sound when activated. 
-   - **Materials/Components**:  
-     - 1 Passive or Active Buzzer  
 
 ## LED Brightness Control with Button Press Duration
 - **Description**: Design a system where the brightness of an LED increases the longer a button is pressed. A secondary button is used to reduce brightness.  
