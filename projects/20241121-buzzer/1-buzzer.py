@@ -1,5 +1,5 @@
 from gpiozero import Buzzer
-from time import sleep
+from time import sleep # improvement -> from signal import pause
 
 buzz = Buzzer(17)
 
@@ -10,4 +10,4 @@ sleep(0.5)
 
 buzz.beep() # equivalent of LED.blink
 
-sleep(7)
+sleep(7) # improvement -> pause()
