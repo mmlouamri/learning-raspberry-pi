@@ -8,3 +8,4 @@ The `projects/` folder contains hands-on projects, including Python code, KiCAD 
 - [Every Developer Needs a Raspberry Pi](https://www.youtube.com/watch?v=Vp4glSVPT8o)
 - [Physical Computing with Python](https://projects.raspberrypi.org/en/projects/physical-computing/0)
 - [Documentation of gpiozero](https://gpiozero.readthedocs.io/en/latest/)
+- [Raspberry PI GPIO Pinout](https://pinout.xyz/)
