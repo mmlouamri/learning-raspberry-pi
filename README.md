@@ -9,3 +9,4 @@ The `projects/` folder contains hands-on projects, including Python code, KiCAD 
 - [Physical Computing with Python](https://projects.raspberrypi.org/en/projects/physical-computing/0)
 - [Documentation of gpiozero](https://gpiozero.readthedocs.io/en/latest/)
 - [Raspberry PI GPIO Pinout](https://pinout.xyz/)
+- [Resistor Color Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
