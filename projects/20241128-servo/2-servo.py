@@ -2,7 +2,7 @@ from gpiozero import Servo, Button
 from signal import pause
 
 
-btn = Button(22, bounce_time=0.05)
+btn = Button(17, bounce_time=0.05)
 srv = Servo(18, min_pulse_width=0.0005, max_pulse_width=0.0025)
 state_max = False
 srv.min()
