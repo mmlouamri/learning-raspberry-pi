@@ -1,4 +1,4 @@
-from stepper import Stepper4Pins
+from stepper4pins import Stepper4Pins
 
 stepper = Stepper4Pins(32 * 64, 22, 17, 27, 18)
 
