@@ -8,7 +8,9 @@ The `projects/` folder contains hands-on projects, including Python code, KiCAD 
 - **Day 2**: PWM and Experimentations with Motors ([post](https://x.com/mmlouamri/status/1859521579547275525))
 - **Day 3**: Servo Motor ([post](https://x.com/mmlouamri/status/1862227418192163267))
 - **Day 4**: Stepper Motor ([post](https://x.com/mmlouamri/status/1863272644549787891))
-- 
+- **Day 5**: Intruder Alarm (PIR Sensor) ([post](https://x.com/mmlouamri/status/1876199659712172424))
+
+
 ## Resources
 - [Every Developer Needs a Raspberry Pi](https://www.youtube.com/watch?v=Vp4glSVPT8o)
 - [Physical Computing with Python](https://projects.raspberrypi.org/en/projects/physical-computing/0)
