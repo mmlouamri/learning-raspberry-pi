@@ -1,13 +1,8 @@
 from gpiozero import MotionSensor, Buzzer
 from signal import pause
-from time import sleep
 
 pir = MotionSensor(17)
 buzzer = Buzzer(18)
-
-buzzer.on()
-sleep(1)
-buzzer.off()
 
 def motion():
 	buzzer.on()
